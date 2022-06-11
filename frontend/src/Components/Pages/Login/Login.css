@@ -6,7 +6,7 @@
   margin: 90px 80px 40px 80px;
   border-radius: 30px;
   height: 550px;
-  box-shadow: 0px 0px 2px 2px #12121210;
+  box-shadow: 0px 0px 20px 20px #000000;
 }
 .login__left {
   flex: 0.3;
